@@ -1,2 +1,2 @@
 # vlad`s junk
-my trash
+Sometimes really useful, sometimes just eats resources of your computer
